@@ -44,3 +44,15 @@ FilmesAPI/obj/Debug/net6.0/staticwebassets.build.json
 FilmesAPI/obj/Debug/net6.0/staticwebassets.build.json.cache
 FilmesAPI/obj/Debug/net6.0/ref/FilmesAPI.dll
 FilmesAPI/obj/Debug/net6.0/refint/FilmesAPI.dll
+FilmesAPI/bin/Debug/net6.0/AutoMapper.dll
+FilmesAPI/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+FilmesAPI/bin/Debug/net6.0/Humanizer.dll
+FilmesAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+FilmesAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+FilmesAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+FilmesAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+FilmesAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+FilmesAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+FilmesAPI/bin/Debug/net6.0/MySqlConnector.dll
+FilmesAPI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+.gitignore
