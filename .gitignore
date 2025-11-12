@@ -56,3 +56,9 @@ FilmesAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
 FilmesAPI/bin/Debug/net6.0/MySqlConnector.dll
 FilmesAPI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
 .gitignore
+FilmesAPI/obj/Debug/net6.0/FilmesAPI.sourcelink.json
+FilmesAPI/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+FilmesAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+FilmesAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+FilmesAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+FilmesAPI/bin/Debug/net6.0/FilmesAPI.xml
